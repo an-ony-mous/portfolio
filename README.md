@@ -1,3 +1,3 @@
 # portfolio
 ポートフォリオです。
-https://an-ony-mous.github.io/portafolio/
+https://an-ony-mous.github.io/portfolio/
